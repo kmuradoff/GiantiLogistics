@@ -1,4 +1,2 @@
-Company: Globalink Logistics
-Contact Person: Karamat Bhat
-Email: k.bhat@globalinklogistics.com
-Phone: +7 777 298 2065
+Company: Globalink Logistics\nContact Person: Karamat Bhat\nEmail: k.bhat@globalinklogistics.com\nPhone: +7 777 298 2065
+
