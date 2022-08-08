@@ -60,7 +60,7 @@ Services: FCL via Poti
 
 **************************************
 
-ompany: Maersk Georgia LTD
+ompany: Maersk Georgia LTD / Sealand Georgia LTD
 Contact Person: Givi Shelia
 Email:  ge.export@maersk.com
 Email CC: N/A
