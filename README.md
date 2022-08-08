@@ -1,1 +1,1 @@
-# Simple database of agents for Gianti Logistics's discord bot
+# Simple database of agents for Gianti Logistics's discord bot.
