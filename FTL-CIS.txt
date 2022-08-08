@@ -5,6 +5,8 @@ Contact Person: Karamat Bhat
 Email: k.bhat@globalinklogistics.com
 Phone: +7 777 298 2065
 
+Services: FTL / Rail / Air
+
 **************************************
 
 Company: Gianti Logistics LLC
@@ -12,5 +14,37 @@ Contact Person: Ilia Modebadze
 Email: imodebadze@giantilogistics.ge
 Email CC: cis@giantilogistics.ge
 Phone: +995 591 087 197
+
+Services: FTL / Sea / Air / CC
+
+**************************************
+
+Company: GlobalSped GMBH
+Contact Person: Herbert Sesko
+Email: herbert.sesko@globalsped.de
+Email CC: susanne.wagner@globalsped.de
+Phone:  0049(0)8654 57 62-21
+
+Services: FTL / LTL
+
+**************************************
+
+Company: Seyfican Ulus. Nak. Tic. Ltd 
+Contact Person: Seyfi Cingoz
+Email: seyficannakliyat@hotmail.com
+Email CC: haci.ali.cingoz@hotmail.com
+Phone:  +90 532 435 14 67 / Haci Abi
+
+Services: FTL
+
+**************************************
+
+Company: Destan Heavy Transport & Logistics LTD
+Contact Person: Ertugrul Boz
+Email: ertugrul@destantransport.com
+Email CC: onur@destantransport.com
+Phone:  +90 533 962 19 89
+
+Services: FTL / OOG
 
 **************************************
